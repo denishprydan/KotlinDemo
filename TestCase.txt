@@ -1,0 +1,6 @@
+1)Check validation for username & password field is empty or not
+2)Check validation message is displaying proper or not
+3)Enter valid username & password 
+4)Enter Invalid username & password
+5)Print response and check its working or not
+6)Insert data into database.
