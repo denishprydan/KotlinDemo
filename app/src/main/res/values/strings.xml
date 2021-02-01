@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PrydanTest</string>
+    <string name="lbl_username">Username</string>
+    <string name="lbl_password">Password</string>
+
+    <string name="error_username">Please enter username</string>
+    <string name="error_password">Please enter password</string>
+
+    <string name="error_invalid_username">Invalid username</string>
+    <string name="error_invalid_password">Invalid password</string>
+
+    <string name="btn_login">Login</string>
+
+</resources>
